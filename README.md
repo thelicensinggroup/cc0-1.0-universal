@@ -1,3 +1,3 @@
-# Ritchy Permissive License v15
+# CC0 1.0 Universal
 
-View at: https://thelicensinggroup.github.io/ritchey-permissive-license-v15
+View at: https://thelicensinggroup.github.io/cc0-1.0-universal
